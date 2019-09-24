@@ -8,8 +8,8 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="news_app"
-        android:icon="@mipmap/ic_launcher">
+        android:label="News Apps"
+        android:icon="@drawable/ic_news_launcher">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
