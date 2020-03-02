@@ -27,7 +27,7 @@ This project is a News for a Flutter application.
 
 ## Questions?
  
- **Ping-Me on :**  
+  **Ping-Me on :**  
  [![Instagram](https://img.shields.io/badge/Instagram-AFIF__PATHAN-orange)](https://instagram.com/mr._.pathan?igshid=kovfu06vj177)
 [![Facebook](https://img.shields.io/badge/Facbook-AFIF__PATHAN-brightgreen)](https://www.facebook.com/profile.php?id=100010152436933)
 [![Twitter](https://img.shields.io/badge/Twitter-AFIF____PATHAN-blue)](https://twitter.com/_aFiF_Pathan?s=09)
